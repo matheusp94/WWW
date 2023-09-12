@@ -20,7 +20,8 @@ export default function Home() {
             <p>
                 Segue abaixo o planejamento via organograma:
             </p>
-            <img src="organograma.png" alt="organização" height="100%" width="100%"/>
+            
+            <img src={'organograma.png'} alt="organização" />
         </section>
       <Footer/>
         </div>
