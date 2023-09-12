@@ -47,11 +47,11 @@ export default function Home() {
 
 
           <p>
-            Em resumo, o objetivo é criar um chatbot que possua um modelo prático, de fácil entendimento e que todas
-            informações necessárias e importantes são geradas no chatbot sem a necessidade da interferência humana,
-            para maior facilidade e eficiência ter uma integração de reconhecimento de imagens por IA, para que seja
-            possível diminuir o tempo da escolha do modal adequado para cada situação, aumentando a automação do
-            serviço.
+          Resumindo, a meta consiste em desenvolver um chatbot com um modelo prático e compreensível,capaz de gerar
+          todas as informações cruciais sem intervenção humana. Para aprimorar a eficiência e a facilidade de uso,
+          estamos buscando integrar um sistema de reconhecimento de imagens baseado em IA,
+          reduzindo o tempo necessário para selecionar o modal adequado em diferentes situações e aumentando 
+          a automação do serviço.
           </p>
 
         </section>
