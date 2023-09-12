@@ -18,18 +18,15 @@ export default function Home() {
        <section>
             <h2>Equipe Bet on Tech (Bot)</h2>
             <p>
-            <ul>
-                <li>Caio Cesar Aruda. RM: 99456 <a href="https://github.com/caiioo0"><img src="githublogo.png"
-                            alt="github" title="github"/></a>;</li>
-                <li>Julianny Araujo Pereira. RM: 99468 <a href="https://github.com/JuliannyAraujo"><img
-                            src="githublogo.png" alt="github" title="github"/></a>;</li>
-                <li>Karen Vitoria Jesus da Silva. RM: 99468 <a href="https://github.com/Kavitooria"><img
-                            src="githublogo.png" alt="github" title="github"/></a>;</li>
-                <li>Matheus Matos Pereira. RM: 99792 <a href="https://github.com/matheusp94"><img src="githublogo.png"
-                            alt="github" title="github"/></a>;</li>
-                <li>Rodrigo Machado Cardoso. RM: 94301 <a href="https://github.com/RodrigoMachadoC"><img
-                            src="githublogo.png" alt="github" title="github"/></a>.</li>
-            </ul>
+
+                Caio Cesar Aruda. RM: 99456 <a href="https://github.com/caiioo0"><img src="githublogo.png"
+                            alt="github" title="github"/></a>
+                Julianny Araujo Pereira. RM: 99468 <a href="https://github.com/JuliannyAraujo"><img
+                            src="githublogo.png" alt="github" title="github"/></a>;
+                Karen Vitoria Jesus da Silva. RM: 99468 <a href="https://github.com/Kavitooria"><img
+                            src="githublogo.png" alt="github" title="github"/></a>;
+                Matheus Matos Pereira. RM: 99792 <a href="https://github.com/matheusp94"><img src="githublogo.png"
+                            alt="github" title="github"/></a>.
             </p>
         </section>
       <Footer/>
