@@ -189,6 +189,11 @@ p {
 
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 /*rodapé*/
 footer {
   position: fixed;
@@ -219,4 +224,63 @@ footer {
 
 ::-webkit-scrollbar-thumb:hover {
   background: #acacac;
+}
+
+/* Responsividade para Desktop */
+@media screen and (min-width: 1024px) {
+  body {
+    padding: 30px 80px; /* Aumenta o padding nas laterais */
+  }
+
+  header {
+    height: 100px; /* Aumenta a altura do cabeçalho */
+  }
+
+
+
+  /* Adicione outras regras de estilo específicas para desktop aqui */
+}
+
+/* Responsividade para Tablet */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  body {
+    padding: 30px 20px; /* Reduz o padding nas laterais */
+  }
+
+  header {
+    height: 80px; /* Reduz a altura do cabeçalho */
+  }
+
+  h2 {
+    font-size: 14px; /* Reduz o tamanho da fonte dos títulos */
+  }
+
+  /* Adicione outras regras de estilo específicas para tablets aqui */
+}
+
+/* Responsividade para Mobile */
+@media screen and (max-width: 767px) {
+  body {
+    padding: 10px; /* Reduz ainda mais o padding nas laterais */
+  }
+
+  header {
+    height: 60px; /* Reduz a altura do cabeçalho */
+    display: flex; /* Adiciona flexbox para centralizar o conteúdo */
+    justify-content: center; /* Centraliza horizontalmente o conteúdo */
+  }
+
+  #logo {
+    display: none; /* Oculta o logotipo */
+  }
+
+  header li {
+    margin: 5px; /* Reduz a margem dos itens de menu */
+  }
+
+  header li a {
+    font-size: 10px; /* Reduz o tamanho da fonte dos itens de menu */
+  }
+
+  /* Adicione outras regras de estilo específicas para dispositivos móveis aqui */
 }
