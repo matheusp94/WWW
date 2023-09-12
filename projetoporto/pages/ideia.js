@@ -20,7 +20,7 @@ export default function Home() {
           <h2>Nossa ideia</h2>
           <p>
 
-            Tendo em vista as solicitações do projeto e as características do atual chatbot da Porto, pensamos em
+            Diante das solicitações do projeto e as características do atual chatbot da Porto, pensamos em
             uma otimização, para que as informações sejam completas, evitando retornos e
 <<<<<<< HEAD
             “mensagens de erros” e com intuito de oferecer uma melhor experiência para o cliente, ou seja, um apontamento de que o chatbot não entendeu o que foi passado. Assim,
