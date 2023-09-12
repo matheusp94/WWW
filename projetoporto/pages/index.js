@@ -25,7 +25,7 @@ export default function Home() {
                 retrabalhos (outro tipo de guincho requerido pelo prestador já no local).
             </p>
             <p>
-                Ao testar chatbot para um melhor compreendimento do problema, constatamos certas questões
+                Ao testar chatbot para um melhor compreendimento do problema, percebemos certas questões
                 de otimização e facilidade - ou falta dela - na utilização do chatbot da Porto. Identificamos que
                 algumas perguntas são redundantes e as
                 informações não são passadas de forma clara, faltando informações para o trabalho ser mais eficiente.
