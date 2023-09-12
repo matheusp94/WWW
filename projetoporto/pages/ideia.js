@@ -22,7 +22,11 @@ export default function Home() {
 
             Tendo em vista as solicitações do projeto e as características do atual chatbot da Porto, pensamos em
             uma otimização, para que as informações sejam completas, evitando retornos e
+<<<<<<< HEAD
             “mensagens de erros” e com intuito de oferecer uma melhor experiência para o cliente, ou seja, um apontamento de que o chatbot não entendeu o que foi passado. Assim,
+=======
+            “mensagens de erros” e oferecendo uma melhor experiência para o cliente, ou seja, um apontamento de que o chatbot não entendeu o que foi passado. Assim,
+>>>>>>> e316462f06a8a3d0cad1cba4f98a399b21e260bc
             podemos melhorar essas questões com itens práticos;
           </p>
 

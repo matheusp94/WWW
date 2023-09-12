@@ -20,12 +20,16 @@ export default function Home() {
             <h2>Situação...</h2>
             <p>
                 Atualmente, o processo de escolha do modal para atendimento de veículos pesados gera esforço operacional
-                (humano) para realizar o acionamento do melhor modal (tipo de guincho). Ainda assim não é possível ter
+                (humano) para realizar o acionamento do melhor modal (tipo de guincho). Ainda assim, não é possível ter
                 um prestação de serviços completamente eficiente, visto que entre 10 a 15% dos atendimentos necessitam
                 retrabalhos (outro tipo de guincho requerido pelo prestador já no local).
             </p>
             <p>
+<<<<<<< HEAD
                 Ao testar chatbot para um melhor compreendimento do problema, percebemos certas questões
+=======
+                Ao testar chatbot para um melhor compreendimento do problema, indentificamos certas questões
+>>>>>>> e316462f06a8a3d0cad1cba4f98a399b21e260bc
                 de otimização e facilidade - ou falta dela - na utilização do chatbot da Porto. Identificamos que
                 algumas perguntas são redundantes e as
                 informações não são passadas de forma clara, faltando informações para o trabalho ser mais eficiente.
