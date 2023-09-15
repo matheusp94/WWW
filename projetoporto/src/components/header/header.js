@@ -11,6 +11,7 @@ export default function Header() {
                     <li><Link href="/">Página inicial</Link></li>
                     <li><Link href="/ideia">Nossa Ideia</Link></li>
                     <li><Link href="/organograma">Organograma</Link></li>
+                    <li><Link href="/exemplo">Exemplo projeto</Link></li>
                     <li><Link href="/equipe">Equipe</Link></li>
                 </ul>
             </nav>

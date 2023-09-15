@@ -17,7 +17,8 @@ export default function Home() {
        <div>
        <section>
             <h2>Nosso projeto no Figma</h2>                
-            <img src="exemplo.png" alt="imagem figma" height="100%" width="100%"/>
+            
+            <img src={"exemplo.png" } alt="Minha Imagem" max />
         </section>
       <Footer/>
         </div>
