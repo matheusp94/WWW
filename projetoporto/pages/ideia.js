@@ -20,9 +20,13 @@ export default function Home() {
           <h2>Nossa ideia</h2>
           <p>
 
-            Tendo em vista as solicitações do projeto e as características do atual chatbot da Porto, pensamos em
+            Diante das solicitações do projeto e as características do atual chatbot da Porto, pensamos em
             uma otimização, para que as informações sejam completas, evitando retornos e
-            “mensagens de erros”, ou seja, um apontamento de que o chatbot não entendeu o que foi passado. Assim,
+<<<<<<< HEAD
+            “mensagens de erros” e com intuito de oferecer uma melhor experiência para o cliente, ou seja, um apontamento de que o chatbot não entendeu o que foi passado. Assim,
+=======
+            “mensagens de erros” e oferecendo uma melhor experiência para o cliente, ou seja, um apontamento de que o chatbot não entendeu o que foi passado. Assim,
+>>>>>>> e316462f06a8a3d0cad1cba4f98a399b21e260bc
             podemos melhorar essas questões com itens práticos;
           </p>
 
@@ -43,11 +47,11 @@ export default function Home() {
 
 
           <p>
-            Em resumo, o objetivo é criar um chatbot que possua um modelo prático, de fácil entendimento e que todas
-            informações necessárias e importantes são geradas no chatbot sem a necessidade da interferência humana,
-            para maior facilidade e eficiência ter uma integração de reconhecimento de imagens por IA, para que seja
-            possível diminuir o tempo da escolha do modal adequado para cada situação, aumentando a automação do
-            serviço.
+          Resumindo, a meta consiste em desenvolver um chatbot com um modelo prático e compreensível,capaz de gerar
+          todas as informações cruciais sem intervenção humana. Para aprimorar a eficiência e a facilidade de uso,
+          estamos buscando integrar um sistema de reconhecimento de imagens baseado em IA,
+          reduzindo o tempo necessário para selecionar o modal adequado em diferentes situações e aumentando 
+          a automação do serviço.
           </p>
 
         </section>

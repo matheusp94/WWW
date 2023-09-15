@@ -21,7 +21,7 @@ export default function Home() {
 
                 Caio Cesar Aruda. RM: 99456 <a href="https://github.com/caiioo0"><img src="githublogo.png"
                             alt="github" title="github"/></a>
-                Julianny Araujo Pereira. RM: 99468 <a href="https://github.com/JuliannyAraujo"><img
+                Julianny Araujo Pereira. RM: 994554 <a href="https://github.com/JuliannyAraujo"><img
                             src="githublogo.png" alt="github" title="github"/></a>;
                 Karen Vitoria Jesus da Silva. RM: 99468 <a href="https://github.com/Kavitooria"><img
                             src="githublogo.png" alt="github" title="github"/></a>;
